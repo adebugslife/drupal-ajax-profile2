@@ -12,10 +12,6 @@ b. Build custom module
 Drupal 7 (Any version)
 Profile2 Module
 
-```
-Give examples
-```
-
 ### Installing
 
 Install Drupal 7 using Drush, commandline, FTP, Git or Composer
@@ -56,15 +52,9 @@ Add the file to the template.php located on
 Yoursite.com/sites/all/themes/custom_theme/
 ```
 
-### Site building
+##Site building
 
-Set up Profile2 to be enabled in user registration
-
-```
-Give an example
-```
-
-## Set up Profile2 fields for user registration
+### Set up Profile2 fields for user registration
 
 Coming soon for video tutorial
 
